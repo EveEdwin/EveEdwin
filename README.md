@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Sharma 👻</h1>
 <h3 align="center">I am an Epistemophile💞🫶🏻 and a passionate Frontend Developer 🫠</h3>
-<img align="right" alt="Developer" width="400" src="![image](https://github.com/EveEdwin/EveEdwin/assets/135717044/bbab4f0f-968f-4ff1-b23f-07b3d5eb405c)
-"
+<img align="right" alt="Developer" width="400" src="[![image](https://github.com/EveEdwin/EveEdwin/assets/135717044/bbab4f0f-968f-4ff1-b23f-07b3d5eb405c)
+"](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eveedwin&label=Profile%20views&color=0e75b6&style=flat" alt="eveedwin" /> </p>
 
 - 🔭 I’m currently working on [Projak](https://github.com/EveEdwin/Projakv2)
