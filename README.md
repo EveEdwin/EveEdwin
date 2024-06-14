@@ -31,13 +31,10 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,react,firebase,mongodb,nextjs,mysql,nodejs,redux,aws" /><br>
 </div>
 
-
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eveedwin&show_icons=true&locale=en&layout=compact" alt="eveedwin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eveedwin&show_icons=true&locale=en" alt="eveedwin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eveedwin&" alt="eveedwin" /></p>
-<hr>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eveedwin&" alt="eveedwin" /></p>
+<hr></div>
 <br/><br/>
 <div align="center">
   <h2>🐍 Loot my Contribution 🐍</h2>
