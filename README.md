@@ -1,7 +1,4 @@
-[![MasterHead](https://github.com/EveEdwin/EveEdwin/blob/main/Mohit%20Banner.png)](https://github.com/EveEdwin)
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohit+Sharma 👻;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Mohit Sharma 👻</h1>
 
 <h3 align="center">I am an Epistemophile💞🫶🏻 and a passionate Frontend Developer 🫠</h3>
 <img align="right" alt="developer" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
