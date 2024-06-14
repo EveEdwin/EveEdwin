@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eveedwin&" alt="eveedwin" /></p>
 <hr>
 <h3 align="center">Loot my contribution </h3>
-<img align="center" alt="developer" width="880" src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif">
+<img align="center" alt="developer" width="1000" src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif">
