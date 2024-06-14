@@ -35,9 +35,8 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eveedwin&show_icons=true&locale=en&layout=compact" alt="eveedwin" /></p><br/>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eveedwin&" alt="eveedwin" /></p><br/>
 </div>
-<br/><br/>
 <div align="center">
-  <br/>
+
  
   <h2>🐍 Loot my Contribution 🐍</h2>
   <br/>
