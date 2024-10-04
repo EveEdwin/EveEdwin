@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Spark Webiste](https://github.com/EveEdwin/Spark2024-25)
 
-- 🌱 I’m currently learning **✴MERN and DSA✴**
+- 🌱 I’m currently learning **✴Blockchain,MERN and DSA✴**
 
 - 💬 Ask me about **</>Frontend </>**
 
